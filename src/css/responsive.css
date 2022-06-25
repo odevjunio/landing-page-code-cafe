@@ -9,8 +9,6 @@
     }
 }
 
-
-
 @media (max-width: 768px) {
     .contato{
         background-image: none;
@@ -29,8 +27,6 @@
         margin-bottom: 46px;
     }
 }
-
-
 
 @media (max-width: 720px) {
     .ladrilho .grande,
@@ -120,7 +116,3 @@
         width: 100%;
     }
 }
-
-
-
-
